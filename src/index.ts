@@ -1,4 +1,8 @@
-// Test importing a module
 // import * as angular from "angular";
 
-angular.module('foo', []);
+// angular.module("foo", []);
+
+const tmp: Map<string, string> = new Map([
+  ["foo", "foo"],
+  ["bar", "bar"],
+]);

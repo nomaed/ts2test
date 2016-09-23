@@ -1,0 +1,9 @@
+{
+  "name": "ts2test",
+  "dependencies": {},
+  "globalDependencies": {
+    "angular": "registry:dt/angular#1.5.0+20160922195358",
+    "angular-resource": "registry:dt/angular-resource#1.5.0+20160914132003",
+    "jquery": "registry:dt/jquery#1.10.0+20160908203239"
+  }
+}
