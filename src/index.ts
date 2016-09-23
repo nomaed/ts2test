@@ -9,4 +9,3 @@ const foo: Map<string, string> = new Map([
   ["bar", "bar"],
 ]);
 const bar: Set<string> = new Set(["foo"]);
-const p = new Promise();
