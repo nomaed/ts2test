@@ -1,5 +1,6 @@
 # ts2test
-TypeScript 2 test scenarios
+TypeScript 2 test scenario: VS-Code ES6 features
+
 
 # Instructions
 1. Clone the repository: `git clone https://github.com/nomaed/ts2test.git`
@@ -8,6 +9,3 @@ TypeScript 2 test scenarios
 npm install
 npm test
 ```
-
-# Currently Testing
-1. import module with `paths` set in `tsconfig.json`

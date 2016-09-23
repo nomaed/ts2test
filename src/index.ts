@@ -1,8 +1,11 @@
-// import * as angular from "angular";
+/**
+ * Using ES6 features,
+ * 'tsc' builds fine,
+ * VS-Code complains :(
+ */
 
-// angular.module("foo", []);
-
-const tmp: Map<string, string> = new Map([
+const foo: Map<string, string> = new Map([
   ["foo", "foo"],
   ["bar", "bar"],
 ]);
+const bar: Set<string> = new Set(["foo"]);
