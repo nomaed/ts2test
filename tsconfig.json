@@ -1,0 +1,27 @@
+{
+    "compilerOptions": {
+        "module": "es2015",
+        "target": "es6",
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "strictNullChecks": true,
+        "noImplicitAny": true,
+        "listFiles": true,
+        "sourceMap": true,
+        "declaration": false,
+        "pretty": true,
+        "outDir": "built"
+    },
+    "paths": {
+        "angular": "node_modules/@types/angular/index.d.ts",
+        "jquery": "node_modules/@types/jquery/index.d.ts"
+    },
+    "lib": [
+        "es5",
+        "es2015",
+        "es2016"
+    ],
+    "files": [
+        "src/index"
+    ]
+}
