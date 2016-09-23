@@ -16,11 +16,6 @@
         "angular": "node_modules/@types/angular/index.d.ts",
         "jquery": "node_modules/@types/jquery/index.d.ts"
     },
-    "lib": [
-        "es5",
-        "es2015",
-        "es2016"
-    ],
     "files": [
         "src/index"
     ]
