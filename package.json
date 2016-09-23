@@ -23,6 +23,7 @@
   "homepage": "https://github.com/nomaed/ts2test#readme",
   "dependencies": {},
   "devDependencies": {
+    "@types/angular": "^1.5.16",
     "typescript": "^2.0.3"
   }
 }

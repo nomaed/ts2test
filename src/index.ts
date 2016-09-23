@@ -1,8 +1,6 @@
-/**
- * Using ES6 features,
- * 'tsc' builds fine,
- * VS-Code complains :(
- */
+import * as angular from 'angular';
+
+angular.module('foo', []);
 
 const foo: Map<string, string> = new Map([
   ["foo", "foo"],
