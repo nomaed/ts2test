@@ -1,3 +1,4 @@
 node_modules
 built
 typings
+src/index.js
