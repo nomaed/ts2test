@@ -1,6 +1,6 @@
-import * as angular from 'angular';
+import * as angular from "angular";
 
-angular.module('foo', []);
+angular.module("foo", []);
 
 const foo: Map<string, string> = new Map([
   ["foo", "foo"],
